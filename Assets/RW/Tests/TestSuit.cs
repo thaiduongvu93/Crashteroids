@@ -8,7 +8,6 @@ namespace Tests
 {
     public class NewTestScript
     {
-        // A Test behaves as an ordinary method
         private Game game;
 
         [SetUp]
