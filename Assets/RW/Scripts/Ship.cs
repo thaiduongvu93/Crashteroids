@@ -125,4 +125,5 @@ public class Ship : MonoBehaviour
         mesh.enabled = true;
         isDead = false;
     }
+
 }
